@@ -1,8 +1,8 @@
 {
-    "imports": {
-        "std/": "https://deno.land/std@0.178.0/"
-    },
-    "tasks": {
-        "build:deno-http": "deno compile --allow-env --allow-net .\\deno-http\\deno-http.ts"
-    }
+  "imports": {
+    "std/": "https://deno.land/std@0.178.0/"
+  },
+  "tasks": {
+    "build:deno-http": "deno compile --allow-env --allow-net .\\deno-http\\deno-http.ts"
+  }
 }
